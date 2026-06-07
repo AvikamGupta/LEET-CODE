@@ -1,0 +1,24 @@
+import java.util.*;
+class Solution {
+    Scanner av=new Scanner(System.in);
+    public int[] twoSum(int[] nums, int target) {
+         int n = nums.length;
+        int i,j;
+        for ( i = 0; i < n; i++) {
+            for ( j = i+1; j <nums.length; j++) {
+                if (target == (nums[i] + nums[j])) 
+                return new int[]{i,j};
+            }
+        }
+    return new int []{};
+    }
+    public static void main(String args[])
+    {
+        Solution ob=new Solution();
+        int[] nums1 = {3, 2, 4};
+        int target1 = 6;
+        int result1[]=ob.twoSum(nums1,target1);
+        System.out.println(" [" + result1[0] + ", " + result1[1] + "]");
+    }
+}
+    
