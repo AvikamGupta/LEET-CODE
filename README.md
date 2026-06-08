@@ -3,7 +3,7 @@
 This repository contains my LeetCode solutions in Java.
 
 ## Progress
-- Arrays: 2 Problems
+- Arrays: 3 Problems
 - Strings: 0 Problems
 - Linked Lists: 0 Problems
 - Trees: 0 Problems
@@ -11,3 +11,4 @@ This repository contains my LeetCode solutions in Java.
 ## Solved Problems
 1. Two Sum
 2. Left and Right Sum Differences
+3. To find container with max water
