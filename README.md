@@ -9,7 +9,7 @@ Username: Avikam_Gupta
 
 - Arrays: 3 Problems
 - Strings: 2 Problems
-- Mathematics: 2 Problems
+- Mathematics: 3 Problems
 - Linked Lists: 0 Problems
 - Trees: 0 Problems
 ## Solved Problems
@@ -20,3 +20,4 @@ Username: Avikam_Gupta
 5. Integer to Roman numeral conversion
 6. Java program to check palindrome number
 7. Java program to check Happy number
+8. Java program to implement Reverse Integer
