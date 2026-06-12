@@ -1,13 +1,17 @@
 # LeetCode Solutions
-My LeetCode id = Avikam_Gupta
-This repository contains my LeetCode solutions in Java.
+
+This repository contains my LeetCode solutions.
+
+## LeetCode Profile
+Username: Avikam_Gupta
 
 ## Progress
+
 - Arrays: 3 Problems
 - Strings: 2 Problems
+- Mathematics: 2 Problems
 - Linked Lists: 0 Problems
 - Trees: 0 Problems
-- Mathematics:2
 ## Solved Problems
 1. Two Sum
 2. Left and Right Sum Differences
