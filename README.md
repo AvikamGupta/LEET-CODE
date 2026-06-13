@@ -8,7 +8,7 @@ Username: Avikam_Gupta
 ## Progress
 
 - Arrays: 3 Problems
-- Strings: 2 Problems
+- Strings: 3 Problems
 - Mathematics: 3 Problems
 - Linked Lists: 0 Problems
 - Trees: 0 Problems
@@ -21,3 +21,4 @@ Username: Avikam_Gupta
 6. Java program to check palindrome number
 7. Java program to check Happy number
 8. Java program to implement Reverse Integer
+9. java program to find Longest Common Prefix
