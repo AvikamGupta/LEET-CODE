@@ -7,7 +7,7 @@ Username: Avikam_Gupta
 
 ## Progress
 
-- Arrays: 4 Problems
+- Arrays: 5 Problems
 - Strings: 4 Problems
 - Mathematics: 3 Problems
 - Linked Lists: 0 Problems
@@ -24,3 +24,4 @@ Username: Avikam_Gupta
 9. java program to find Longest Common Prefix
 10. java program to Remove element from array
 11. Java program to find index of first occurence of a string
+12. Java program to Remove Dublicates from sorted array
