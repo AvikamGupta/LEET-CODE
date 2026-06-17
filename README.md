@@ -7,7 +7,7 @@ Username: Avikam_Gupta
 
 ## Progress
 
-- Arrays: 5 Problems
+- Arrays: 6 Problems
 - Strings: 4 Problems
 - Mathematics: 3 Problems
 - Linked Lists: 0 Problems
@@ -25,3 +25,4 @@ Username: Avikam_Gupta
 10. java program to Remove element from array
 11. Java program to find index of first occurence of a string
 12. Java program to Remove Dublicates from sorted array
+13. Java program for a Jump Game
