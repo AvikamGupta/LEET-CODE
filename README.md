@@ -9,7 +9,7 @@ Username: Avikam_Gupta
 
 - Arrays: 6 Problems
 - Strings: 4 Problems
-- Mathematics: 3 Problems
+- Mathematics: 4 Problems
 - Linked Lists: 0 Problems
 - Trees: 0 Problems
 ## Solved Problems
@@ -26,3 +26,4 @@ Username: Avikam_Gupta
 11. Java program to find index of first occurence of a string
 12. Java program to Remove Dublicates from sorted array
 13. Java program for a Jump Game
+14. Java program for Climbing Stairs
