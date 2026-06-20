@@ -7,7 +7,7 @@ Username: Avikam_Gupta
 
 ## Progress
 
-- Arrays: 7 Problems
+- Arrays: 8 Problems
 - Strings: 4 Problems
 - Mathematics: 4 Problems
 - Linked Lists: 0 Problems
@@ -28,3 +28,4 @@ Username: Avikam_Gupta
 13. Java program for a Jump Game
 14. Java program for Climbing Stairs
 15. Java program to find Numbers with Even Number of Digits
+16. Java program to find max number of consecutive ones
