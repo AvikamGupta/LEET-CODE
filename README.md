@@ -9,7 +9,7 @@ Username: Avikam_Gupta
 
 - Arrays: 8 Problems
 - Strings: 5 Problems
-- Mathematics: 4 Problems
+- Mathematics: 5 Problems
 - Linked Lists: 0 Problems
 - Trees: 0 Problems
 ## Solved Problems
@@ -30,3 +30,4 @@ Username: Avikam_Gupta
 15. Java program to find Numbers with Even Number of Digits
 16. Java program to find max number of consecutive ones
 17. Java program to find longest palindromic substring
+18. java program to subtract product and sum of digits of an integer
