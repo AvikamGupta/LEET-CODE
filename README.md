@@ -21,7 +21,7 @@ Username: Avikam_Gupta
 6. Java program to check palindrome number
 7. Java program to check Happy number
 8. Java program to implement Reverse Integer
-9. java program to find Longest Common Prefix
+9. Java program to find Longest Common Prefix
 10. java program to Remove element from array
 11. Java program to find index of first occurence of a string
 12. Java program to Remove Dublicates from sorted array
@@ -30,4 +30,5 @@ Username: Avikam_Gupta
 15. Java program to find Numbers with Even Number of Digits
 16. Java program to find max number of consecutive ones
 17. Java program to find longest palindromic substring
-18. java program to subtract product and sum of digits of an integer
+18. Java program to subtract product and sum of digits of an integer
+19. Java program to find Excel sheet column title
