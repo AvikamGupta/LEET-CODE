@@ -8,7 +8,7 @@ Username: Avikam_Gupta
 ## Progress
 
 - Arrays: 8 Problems
-- Strings: 5 Problems
+- Strings: 6 Problems
 - Mathematics: 5 Problems
 - Linked Lists: 0 Problems
 - Trees: 0 Problems
