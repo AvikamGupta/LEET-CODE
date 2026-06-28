@@ -15,6 +15,24 @@
 
 ---
 
+## 📊 Live Stats
+
+<div align="center">
+
+### LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Avikam_Gupta?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/Avikam_Gupta)
+
+### GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=AvikamGupta&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=FFA726&icon_color=FFA726&text_color=ffffff&bg_color=0d1117" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvikamGupta&theme=radical&hide_border=true&stroke=FFA726&ring=FFA726&fire=ffffff&currStreakLabel=FFA726&background=0d1117" height="170"/>
+
+</div>
+
+---
+
 ## 👨‍💻 About This Repository
 
 A daily-updated collection of my LeetCode solutions written in **Java** and **C++**.
@@ -30,7 +48,6 @@ Every solution here reflects my genuine attempt first — then review, debug, an
 ```
 Total Solved   : 21 Problems
 Languages      : Java · C++
-Active Since   : 2025
 Consistency    : 🔥 Daily
 ```
 
@@ -132,7 +149,7 @@ Consistency    : 🔥 Daily
 - ⏳ Add Linked Lists & Trees
 - ⏳ Attempt Medium problems regularly
 - ⏳ Start solving Hard problems
-- ⏳ Contribute to competitive programming
+- ⏳ Start Competitive Programming
 
 ---
 
