@@ -7,7 +7,7 @@ Username: Avikam_Gupta
 
 ## Progress
 
-- Arrays: 8 Problems
+- Arrays: 9 Problems
 - Strings: 6 Problems
 - Mathematics: 6 Problems
 - Linked Lists: 0 Problems
@@ -32,4 +32,5 @@ Username: Avikam_Gupta
 17. Java program to find longest palindromic substring
 18. Java program to subtract product and sum of digits of an integer
 19. Java program to find Excel sheet column title
-20. Java program to check wether a number is power of two 
+20. Java program to check wether a number is power of two
+21. C++ program to find single number
