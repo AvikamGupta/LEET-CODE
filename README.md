@@ -55,7 +55,7 @@ Consistency    : 🔥 Daily
 
 | Category | Solved | Progress |
 |----------|:------:|----------|
-| 📦 Arrays | 9 | `█████████░░░░░░░░░░` |
+| 📦 Arrays | 10 | `█████████░░░░░░░░░░` |
 | 🔤 Strings | 6 | `██████░░░░░░░░░░░░░░` |
 | ➗ Mathematics | 6 | `██████░░░░░░░░░░░░░░` |
 | 🔗 Linked Lists | 0 | `░░░░░░░░░░░░░░░░░░░░` |
@@ -81,7 +81,7 @@ Consistency    : 🔥 Daily
 | 07 | Jump Game | 🟡 Medium | Java | Greedy |
 | 08 | Numbers with Even Number of Digits | 🟢 Easy | Java | Iteration |
 | 09 | Max Consecutive Ones | 🟢 Easy | Java | Iteration |
-
+| 10 | Maximum Subarray Sum | 🟡 Medium | c++ | Kadane's Algortithm |
 ---
 
 ### 🔤 Strings
@@ -115,7 +115,7 @@ Consistency    : 🔥 Daily
 | Difficulty | Count |
 |:----------:|:-----:|
 | 🟢 Easy | 16 |
-| 🟡 Medium | 5 |
+| 🟡 Medium | 6 |
 | 🔴 Hard | 0 |
 
 ---
@@ -125,7 +125,7 @@ Consistency    : 🔥 Daily
 | Language | Problems |
 |----------|:--------:|
 | ☕ Java | 20 |
-| ⚙️ C++ | 1 |
+| ⚙️ C++ | 2 |
 
 ---
 
