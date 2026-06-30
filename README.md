@@ -7,7 +7,7 @@
 <br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Avikam__Gupta-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Avikam_Gupta)
-![Problems Solved](https://img.shields.io/badge/Solved-21-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-23-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active%20🔥-orange?style=for-the-badge)
 
