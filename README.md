@@ -46,7 +46,7 @@ Every solution here reflects my genuine attempt first — then review, debug, an
 ## 📊 Progress Overview
 
 ```
-Total Solved   : 21 Problems
+Total Solved   : 23 Problems
 Languages      : Java · C++
 Consistency    : 🔥 Daily
 ```
@@ -55,7 +55,7 @@ Consistency    : 🔥 Daily
 
 | Category | Solved | Progress |
 |----------|:------:|----------|
-| 📦 Arrays | 10 | `█████████░░░░░░░░░░` |
+| 📦 Arrays | 11 | `█████████░░░░░░░░░░` |
 | 🔤 Strings | 6 | `██████░░░░░░░░░░░░░░` |
 | ➗ Mathematics | 6 | `██████░░░░░░░░░░░░░░` |
 | 🔗 Linked Lists | 0 | `░░░░░░░░░░░░░░░░░░░░` |
@@ -82,6 +82,7 @@ Consistency    : 🔥 Daily
 | 08 | Numbers with Even Number of Digits | 🟢 Easy | Java | Iteration |
 | 09 | Max Consecutive Ones | 🟢 Easy | Java | Iteration |
 | 10 | Maximum Subarray Sum | 🟡 Medium | c++ | Kadane's Algortithm |
+| 11 | Majority Elements | 🟢 Easy | c++ | Moores's voting algorithm |
 ---
 
 ### 🔤 Strings
@@ -114,7 +115,7 @@ Consistency    : 🔥 Daily
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 16 |
+| 🟢 Easy | 17 |
 | 🟡 Medium | 6 |
 | 🔴 Hard | 0 |
 
@@ -125,7 +126,7 @@ Consistency    : 🔥 Daily
 | Language | Problems |
 |----------|:--------:|
 | ☕ Java | 20 |
-| ⚙️ C++ | 2 |
+| ⚙️ C++ | 3 |
 
 ---
 
