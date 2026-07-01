@@ -7,7 +7,7 @@
 <br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Avikam__Gupta-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Avikam_Gupta)
-![Problems Solved](https://img.shields.io/badge/Solved-23-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-24-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active%20🔥-orange?style=for-the-badge)
 
@@ -46,7 +46,7 @@ Every solution here reflects my genuine attempt first — then review, debug, an
 ## 📊 Progress Overview
 
 ```
-Total Solved   : 23 Problems
+Total Solved   : 24 Problems
 Languages      : Java · C++
 Consistency    : 🔥 Daily
 ```
@@ -56,7 +56,7 @@ Consistency    : 🔥 Daily
 | Category | Solved | Progress |
 |----------|:------:|----------|
 | 📦 Arrays | 11 | `█████████░░░░░░░░░░` |
-| 🔤 Strings | 6 | `██████░░░░░░░░░░░░░░` |
+| 🔤 Strings | 7 | `██████░░░░░░░░░░░░░░` |
 | ➗ Mathematics | 6 | `██████░░░░░░░░░░░░░░` |
 | 🔗 Linked Lists | 0 | `░░░░░░░░░░░░░░░░░░░░` |
 | 🌳 Trees | 0 | `░░░░░░░░░░░░░░░░░░░░` |
@@ -95,7 +95,7 @@ Consistency    : 🔥 Daily
 | 13 | Longest Palindromic Substring | 🟡 Medium | Java | Brute Force + Two Pointer |
 | 14 | Excel Sheet Column Title | 🟢 Easy | Java | Math / Base-26 |
 | 15 | Single Number | 🟢 Easy | C++ | Bit Manipulation (XOR) |
-
+| 16 | Detect Capital | 🟢 Easy | java | Linear Scan with Counting |
 ---
 
 ### ➗ Mathematics
@@ -115,7 +115,7 @@ Consistency    : 🔥 Daily
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 17 |
+| 🟢 Easy | 18 |
 | 🟡 Medium | 6 |
 | 🔴 Hard | 0 |
 
@@ -125,7 +125,7 @@ Consistency    : 🔥 Daily
 
 | Language | Problems |
 |----------|:--------:|
-| ☕ Java | 20 |
+| ☕ Java | 21 |
 | ⚙️ C++ | 3 |
 
 ---
