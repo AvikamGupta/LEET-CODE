@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a825,50:f57f17,100:e65100&height=200&section=header&text=LeetCode%20Solutions&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Solving%20Problems.%20Building%20Intuition.%20Every%20Day.&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFA726&center=true&vCenter=true&width=700&lines=31+Problems+Solved+and+Counting+%F0%9F%94%A5;Arrays+%7C+Strings+%7C+Math+%7C+DP+%7C+Greedy;Java+%2B+C%2B%2B+Solutions;One+Problem+at+a+Time+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFA726&center=true&vCenter=true&width=700&lines=32+Problems+Solved+and+Counting+%F0%9F%94%A5;Arrays+%7C+Strings+%7C+Math+%7C+DP+%7C+Greedy;Java+%2B+C%2B%2B+Solutions;One+Problem+at+a+Time+%F0%9F%9A%80"/>
 
 <br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Avikam__Gupta-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Avikam_Gupta)
-![Problems Solved](https://img.shields.io/badge/Solved-31-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-32-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active%20🔥-orange?style=for-the-badge)
 
@@ -46,7 +46,7 @@ Every solution here reflects my genuine attempt first — then review, debug, an
 ## 📊 Progress Overview
 
 ```
-Total Solved   : 31 Problems
+Total Solved   : 32 Problems
 Languages      : Java · C++
 Consistency    : 🔥 Daily
 ```
@@ -57,7 +57,7 @@ Consistency    : 🔥 Daily
 |----------|:------:|----------|
 | 📦 Arrays | 14 | `█████████░░░░░░░░░░` |
 | 🔤 Strings | 9 | `██████░░░░░░░░░░░░░░` |
-| ➗ Mathematics | 8 | `██████░░░░░░░░░░░░░░` |
+| ➗ Mathematics | 9 | `██████░░░░░░░░░░░░░░` |
 | 🔗 Linked Lists | 0 | `░░░░░░░░░░░░░░░░░░░░` |
 | 🌳 Trees | 0 | `░░░░░░░░░░░░░░░░░░░░` |
 | ⚡ Dynamic Programming | 1 | `█░░░░░░░░░░░░░░░░░░░` |
@@ -115,13 +115,14 @@ Consistency    : 🔥 Daily
 | 21 | Climbing Stairs | 🟢 Easy | Java | Dynamic Programming |
 | 22 | pow(x,n) | 🟡 Medium | c++ | Binary Exponentiation |
 | 23 | Plus one | 🟢 Easy | Java | Big number arithmetic |
+| 24 | GCD of ODD and Even sums | 🟢 Easy | Java | Brute force |
 ---
 
 ## 🌐 Difficulty Breakdown
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 22 |
+| 🟢 Easy | 23 |
 | 🟡 Medium | 9 |
 | 🔴 Hard | 0 |
 
@@ -131,7 +132,7 @@ Consistency    : 🔥 Daily
 
 | Language | Problems |
 |----------|:--------:|
-| ☕ Java | 26 |
+| ☕ Java | 27 |
 | ⚙️ C++ | 5 |
 
 ---
