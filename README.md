@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a825,50:f57f17,100:e65100&height=200&section=header&text=LeetCode%20Solutions&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Solving%20Problems.%20Building%20Intuition.%20Every%20Day.&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFA726&center=true&vCenter=true&width=700&lines=33+Problems+Solved+and+Counting+%F0%9F%94%A5;Arrays+%7C+Strings+%7C+Math+%7C+DP+%7C+Greedy;Java+%2B+C%2B%2B+Solutions;One+Problem+at+a+Time+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFA726&center=true&vCenter=true&width=700&lines=34+Problems+Solved+and+Counting+%F0%9F%94%A5;Arrays+%7C+Strings+%7C+Math+%7C+DP+%7C+Greedy;Java+%2B+C%2B%2B+Solutions;One+Problem+at+a+Time+%F0%9F%9A%80"/>
 
 <br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Avikam__Gupta-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Avikam_Gupta)
-![Problems Solved](https://img.shields.io/badge/Solved-33-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-34-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active%20🔥-orange?style=for-the-badge)
 
@@ -46,7 +46,7 @@ Every solution here reflects my genuine attempt first — then review, debug, an
 ## 📊 Progress Overview
 
 ```
-Total Solved   : 33 Problems
+Total Solved   : 34 Problems
 Languages      : Java · C++
 Consistency    : 🔥 Daily
 ```
@@ -55,7 +55,7 @@ Consistency    : 🔥 Daily
 
 | Category | Solved | Progress |
 |----------|:------:|----------|
-| 📦 Arrays | 14 | `█████████░░░░░░░░░░` |
+| 📦 Arrays | 15 | `█████████░░░░░░░░░░` |
 | 🔤 Strings | 10 | `██████░░░░░░░░░░░░░░` |
 | ➗ Mathematics | 9 | `██████░░░░░░░░░░░░░░` |
 | 🔗 Linked Lists | 0 | `░░░░░░░░░░░░░░░░░░░░` |
@@ -86,6 +86,7 @@ Consistency    : 🔥 Daily
 | 12 | Product of array except itself | 🟡 Medium | c++ |  Prefix Suffix Product |
 | 13 | Rank Transform | 🟢 Easy | java | Hashmap |
 | 14 | Squares of sorted array | 🟢 Easy | Java | Brute force |
+| 15 | Running sum of 1-D array | 🟢 Easy | Java | Bruteforce |
 ---
 
 ### 🔤 Strings
@@ -123,7 +124,7 @@ Consistency    : 🔥 Daily
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 23 |
+| 🟢 Easy | 24 |
 | 🟡 Medium | 10 |
 | 🔴 Hard | 0 |
 
@@ -133,7 +134,7 @@ Consistency    : 🔥 Daily
 
 | Language | Problems |
 |----------|:--------:|
-| ☕ Java | 28 |
+| ☕ Java | 29 |
 | ⚙️ C++ | 5 |
 
 ---
